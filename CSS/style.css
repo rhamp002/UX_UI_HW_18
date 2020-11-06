@@ -40,10 +40,26 @@ ul {
     margin: 0 auto;
 }
 
+body{
+    background-color:#1E2121;
+}
+
+.flexContainer{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    padding: 0 auto;
+}
+
+.workGrid {
+    display: grid;
+}
+
 footer {
     background: #373738;
     padding: 0 auto;
-        
+    color: white;
 }
 
 
+}
